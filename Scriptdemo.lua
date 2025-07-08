@@ -46,7 +46,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
   end
   })
   
-  AddButton(Tab2o, {
+  AddButton(Tab1o, {
      Name = "NATIVE",
     Callback = function()
 	script_key="PASTEKEYHERE";
